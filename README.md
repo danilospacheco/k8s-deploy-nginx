@@ -1,1 +1,1 @@
-# k8s-deploy-nginx
+# k8s-deploy-nginx-example
